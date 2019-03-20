@@ -1,0 +1,21 @@
+[1] http://toolsqa.com/selenium-webdriver/download-and-install-java/
+
+[2] https://docs.opencv.org/2.4/doc/tutorials/introduction/java_eclipse/java_eclipse.html
+
+[3] https://craftofcoding.wordpress.com/2017/12/13/pupil-segmentation-with-blobs/
+
+[4] https://www.tutorialspoint.com/opencv/opencv_canny_edge_detection.htm
+
+[5] https://stackoverflow.com/questions/13970595/java-writing-events-to-log-text-file
+
+[6] https://stackoverflow.com/questions/45789549/track-eye-pupil-position-with-webcam-opencv-and-python
+
+[7] https://github.com/hosek/eyeTrackSample/blob/master/eyeTrackSample/src/main/java/cz/nakoncisveta/eyetracksample/eyedetect/FdActivity.java
+
+[8] https://github.com/habibm/Android-Pupil-Detector/blob/master/DetectPupil/src/com/habibm/detectpupil/MainActivity.java
+
+[9] https://www.programcreek.com/java-api-examples/?class=org.opencv.objdetect.CascadeClassifier&method=detectMultiScale
+
+[10] https://www.learnopencv.com/blob-detection-using-opencv-python-c/
+
+[11] https://github.com/mesutpiskin/opencv-object-detection/blob/master/src/FaceAndEyeDetection/DetectFace.java
